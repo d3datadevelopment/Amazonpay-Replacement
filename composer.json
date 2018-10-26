@@ -1,0 +1,11 @@
+{
+  "name": "d3/oxid-amazonpay-replacement",
+  "description": "Empty replacement for the Amazon Pay module if it is not used and should be removed from the installation.",
+  "version": "1.0.0",
+  "require": {
+    "oxid-esales/oxideshop-metapackage-ce": "^6.0"
+  },
+  "replace": {
+    "bestit/amazonpay4oxid": "*"
+  }
+}
