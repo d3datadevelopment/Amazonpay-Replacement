@@ -7,5 +7,6 @@
   },
   "replace": {
     "bestit/amazonpay4oxid": "*"
-  }
+  },
+  "license": "GPL-3.0-or-later"
 }
